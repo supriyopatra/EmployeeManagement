@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "supriyo pa",
+      "email": "supriyakumar2013@gmail.com",
+      "phone": "12345678901",
+      "contactPreference": "email",
+      "skills": [
+        {
+          "skillName": "c",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "akash",
+      "email": "a@gmail.com",
+      "phone": "",
+      "contactPreference": "email",
+      "skills": [
+        {
+          "skillName": "java",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    }
+  ]
+}
